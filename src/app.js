@@ -1,0 +1,10 @@
+import './01-rendering-static-template.js';
+import './02-rendering-dynamic-template.js';
+import './03-linking-attributes-template.js';
+import './04-linking-properties-template.js';
+import './05-linking-events-template.js';
+import './06-linking-events-template.js';
+import './07-nested-templates.js';
+import './08-conditional-templates.js';
+import './09-repeat-templates.js';
+import './10-empty-templates.js';
